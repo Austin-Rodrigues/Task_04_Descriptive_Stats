@@ -1,8 +1,8 @@
-# Task_04_Descriptive_Stats
+# Task 04: Descriptive Statistics
 
 ## Descriptive Statistics with and without 3rd Party Libraries (Pandas/Polars)
 
-This project implements and compares three approaches to perform descriptive statistics on datasets from the 2024 U.S. presidential election social media activity. The analysis is done using:
+This project implements and compares three approaches for performing descriptive statistics on datasets from the 2024 U.S. presidential election's social media activity. The analysis is done using:
 
 - Pure Python (standard library only)
 - Pandas
